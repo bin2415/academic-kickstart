@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "New Jersey"
   date_start = "2019-04-07"
-  date_end = "2020-10-06"
+  date_end = "2020-08-30"
   description = """
   Responsibilities include:
   
