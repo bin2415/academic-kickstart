@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pangbin2415@gamil.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:pangbin2415@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/bin2415
