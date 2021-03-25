@@ -36,6 +36,9 @@ education:
     institution: Computer Science and Technology
     year: 2013 - 2017
 
+awards:
+- $7000 bug bounty from Google.
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
