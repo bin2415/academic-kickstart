@@ -41,7 +41,6 @@ subtitle = ""
  css_class = ""
 +++
 
-- **[05/2021]** - Received a [Fuzzilli Research Grant](https://googleprojectzero.blogspot.com/2020/10/announcing-fuzzilli-research-grant.html) on fuzzing JavaScript from Google, Thanks!
 - **[03/2021]** - $5000 bug bounty from Google.
 - **[03/2021]** - Our work on finding function starts was accepted to DSN'21.
 - **[06/2020]** - $2000 bug bounty from Google.
