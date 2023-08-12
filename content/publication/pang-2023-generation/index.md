@@ -1,21 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Towards Optimal Use of Exception Handling Information for Function Detection
-  (DSN 2021)
+title: Generation-based fuzzing? Don’t build a new generator, reuse! (Computers &
+  Security)
 subtitle: ''
 summary: ''
 authors:
 - Chengbin Pang
-- Ruotong Yu
-- Dongpeng Xu
-- Eric Koskinen
-- Georgios Portokalidis
+- Hongbin Liu
+- Yifan Wang
+- Neil Zhenqiang Gong
+- Bing Mao
 - Jun Xu
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-06-26T23:43:22+08:00
+date: '2023-01-01'
+lastmod: 2023-05-03T22:50:53+08:00
 featured: false
 draft: false
 
@@ -33,10 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-06T04:41:17.527930Z'
+publishDate: '2023-07-06T04:41:17.187665Z'
 publication_types:
-- 1
+- 2
 abstract: ''
-publication: '*2021 51th Annual IEEE/IFIP International Conference on Dependable Systems
-  and Networks (DSN)*'
+publication: '*Computers & Security*'
 ---

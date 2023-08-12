@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate in Nanjing University
+  - course: PhD in Nanjing University
     institution: Computer Science and Technology
-    year: 2017 - Present
+    year: 2017 - 2023
 
   - course: BSc in Shandong University
     institution: Computer Science and Technology

@@ -41,6 +41,10 @@ subtitle = ""
  css_class = ""
 +++
 
+
+- **[08/2023]** - Received several CVEs related to PDF fuzzing ([CVE-2021-25786](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-25786), [CVE-2020-36023](https://nvd.nist.gov/vuln/detail/CVE-2020-36023), [CVE-2020-36024](https://nvd.nist.gov/vuln/detail/CVE-2020-36024))
+- **[05/2023]** - Our work about obfuscating call frame information (CFI) was accepted to ISSTA'23.
+- **[05/2022]** - Our work about ground truth of binary disassembly was accepted to Usenix Security'22.
 - **[03/2021]** - $5000 bug bounty from Google.
 - **[03/2021]** - Our work on finding function starts was accepted to DSN'21.
 - **[06/2020]** - $2000 bug bounty from Google.

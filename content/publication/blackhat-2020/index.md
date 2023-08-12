@@ -1,7 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Demystify Today's Binary Disassembling and How Modern ABI Makes it Easier
+title: Demystify Today's Binary Disassembling and How Modern ABI Makes it Easier (BlackHat
+  Asia 2020)
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T11:50:51.552368Z'
+publishDate: '2023-07-06T04:41:17.746482Z'
 publication_types:
 - 2
 abstract: ''

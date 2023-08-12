@@ -1,21 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Towards Optimal Use of Exception Handling Information for Function Detection
-  (DSN 2021)
+title: 'OCFI: Make Function Entry Identification Hard Again (ISSTA 2023)'
 subtitle: ''
 summary: ''
 authors:
 - Chengbin Pang
-- Ruotong Yu
-- Dongpeng Xu
-- Eric Koskinen
-- Georgios Portokalidis
-- Jun Xu
+- Tiantai Zhang
+- Linzhang Wang
+- Bing Mao
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-06-26T23:43:22+08:00
+date: '2023-01-01'
+lastmod: 2023-05-03T23:18:45+08:00
 featured: false
 draft: false
 
@@ -33,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-06T04:41:17.527930Z'
+publishDate: '2023-07-06T04:41:17.073619Z'
 publication_types:
 - 1
 abstract: ''
-publication: '*2021 51th Annual IEEE/IFIP International Conference on Dependable Systems
-  and Networks (DSN)*'
+publication: '*32nd ACM SIGSOFT International Symposium on Software Testing and Analysis
+  (ISSTA 2023)*'
 ---

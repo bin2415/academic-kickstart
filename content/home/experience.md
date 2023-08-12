@@ -31,4 +31,12 @@ date_format = "Jan 2006"
   * Binary analysis 
   """
 
+[[experience]]
+  title = "Senior Research Engineer"
+  company = "Tencent"
+  company_url = ""
+  location = "Shanghai"
+  date_start = "2023-08-01"
+  date_end = ""
+
 +++
